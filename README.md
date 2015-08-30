@@ -1,11 +1,13 @@
 # Custom-Crates
-Custom Loot Crate Spawning
+Custom Loot Crate Spawning for ExileMod
 
 //Random Loot Crates by Darth_Rogue & Chisel (tdwhite)
 
 //HUGE thanks to deadeye & Robio for helping work out the last bugs!
 
 //Modified by Ghostrider-DBD- for better random loot distribution and adding vehicle crashes
+
+//Modified by Tinboye to use Loot from ExileMod.com, not fully tested.
 
 //To be ran server side via addon PBO
 
